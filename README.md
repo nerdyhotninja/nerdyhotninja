@@ -52,6 +52,10 @@ My recent journey I've taken a couple online programs in Cybersecurity. I have d
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Resources
+https://github.com/nerdyhotninja/CybersecurityResources
+
 <!--
 **nerdyhotninja/nerdyhotninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

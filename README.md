@@ -1,7 +1,10 @@
 ## Hi there 👋
-
+<a href="https://linkedin.com/in/r-j-davies-95a08626/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **nerdyhotninja/nerdyhotninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+https://www.linkedin.com
 
 Here are some ideas to get you started:
 

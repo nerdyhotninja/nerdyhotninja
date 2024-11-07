@@ -1,4 +1,6 @@
 ## Hi there I'm Rhonda (R. J.) 👋
+GitHub - nerdyhotninja  ... disclaimer - I'm not hot nor a ninja but I am a bit nerdy
+
 <a href="https://linkedin.com/in/r-j-davies-95a08626/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I have graduated from computer engineering, I've recently studied cybersecurity and working towards getting ceritfied in that field. 

@@ -18,7 +18,7 @@ My recent journey I've taken a couple online programs in Cybersecurity. I have d
 | Using SQL Code to analysis login attempts       | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Using%20Filters%20for%20SQL%20Queries">SQL Lab</a>|
 | Dealing with a Data Leak                        | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Data-leak-worksheet.docx"> Data Leak Lab </a>|
 | Algorithm for File Updates Using Python         | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Using%20Python%20to%20Update%20Files">Python Lab</a>|
-| File Permissions in Linux                       | <a href="https://google.com">LINUX Lab</a>|
+| File Permissions in Linux                       | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/File%20Permissions%20in%20Linux">LINUX Lab</a>|
 | Incident Handler's Journal                      | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Incident-handler-journal.docx">Journal for Labs</a>|
 
 

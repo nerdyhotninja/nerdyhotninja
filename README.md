@@ -15,11 +15,12 @@ My recent journey I've taken a couple online programs in Cybersecurity. I have d
 |-------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Access Control Management                       | Access control worksheet|
-| Using SQL Code to analysis login attempts       | SOC Automation Lab|
-| Dealing with a Data Leak                        | SOC Automation Lab|
+| Access Control Management                       | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Access-control-worksheet.docx">Access Control Lab</a>|
+| Using SQL Code to analysis login attempts       | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Using%20Filters%20for%20SQL%20Queries">SQL Lab</a>|
+| Dealing with a Data Leak                        | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Data-leak-worksheet.docx"> Data Leak Lab </a>|
 | Algorithm for File Updates Using Python         | SOC Automation Lab|
-| Incident Handler's Journal                      | SOC Automation Lab|
+| Incident Handler's Journal                      | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Incident-handler-journal.docx">Journal for Labs</a>|
+
 
 ## Tools
 

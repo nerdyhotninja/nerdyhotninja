@@ -18,7 +18,7 @@ My recent journey I've taken a couple online programs in Cybersecurity. I have d
 | Access Control Management                       | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Access-control-worksheet.docx">Access Control Lab</a>|
 | Using SQL Code to analysis login attempts       | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Using%20Filters%20for%20SQL%20Queries">SQL Lab</a>|
 | Dealing with a Data Leak                        | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Data-leak-worksheet.docx"> Data Leak Lab </a>|
-| Algorithm for File Updates Using Python         | SOC Automation Lab|
+| Algorithm for File Updates Using Python         | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Using%20Python%20to%20Update%20Files">Python Lab</a>|
 | Incident Handler's Journal                      | <a href="https://github.com/nerdyhotninja/Online-Cybersecurity-Labs/blob/main/Incident-handler-journal.docx">Journal for Labs</a>|
 
 
